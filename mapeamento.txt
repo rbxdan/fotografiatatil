@@ -1,0 +1,175 @@
+PECA 1
+
+circ_x [0]=452.0;
+circ_y [0]=171.0;
+circ_radius [0]=100.0;
+circ_x [1]=465.0;
+circ_y [1]=31.0;
+circ_radius [1]=60.0;
+circ_x [2]=448.0;
+circ_y [2]=267.0;
+circ_radius [2]=100.0;
+circ_x [3]=535.0;
+circ_y [3]=394.0;
+circ_radius [3]=70.0;
+circ_x [4]=343.0;
+circ_y [4]=308.0;
+circ_radius [4]=110.0;
+circ_x [5]=102.0;
+circ_y [5]=384.0;
+circ_radius [5]=90.0;
+circ_x [6]=310.0;
+circ_y [6]=223.0;
+circ_radius [6]=70.0;
+circ_x [7]=439.0;
+circ_y [7]=293.0;
+circ_radius [7]=40.0;
+circ_x [8]=448.0;
+circ_y [8]=260.0;
+circ_radius [8]=30.0;
+circ_x [9]=-50.0;
+circ_y [9]=-50.0;
+circ_radius [9]=30.0;
+
+FIM DO MAPEAMENTO DA PECA 1
+//////////////////////////////
+PECA 2
+
+circ_x [0]=137.0;
+circ_y [0]=218.0;
+circ_radius [0]=50.0;
+circ_x [1]=98.0;
+circ_y [1]=211.0;
+circ_radius [1]=50.0;
+circ_x [2]=54.0;
+circ_y [2]=206.0;
+circ_radius [2]=50.0;
+circ_x [3]=118.0;
+circ_y [3]=296.0;
+circ_radius [3]=80.0;
+circ_x [4]=153.0;
+circ_y [4]=239.0;
+circ_radius [4]=20.0;
+circ_x [5]=321.0;
+circ_y [5]=236.0;
+circ_radius [5]=120.0;
+circ_x [6]=-50.0;
+circ_y [6]=-50.0;
+circ_radius [6]=30.0;
+circ_x [7]=-50.0;
+circ_y [7]=-50.0;
+circ_radius [7]=30.0;
+circ_x [8]=-50.0;
+circ_y [8]=-50.0;
+circ_radius [8]=30.0;
+circ_x [9]=-50.0;
+circ_y [9]=-50.0;
+circ_radius [9]=30.0;
+
+FIM DO MAPEAMENTO DA PECA 2
+//////////////////////////////
+PECA 3
+
+circ_x [0]=310.0;
+circ_y [0]=258.0;
+circ_radius [0]=90.0;
+circ_x [1]=205.0;
+circ_y [1]=175.0;
+circ_radius [1]=50.0;
+circ_x [2]=246.0;
+circ_y [2]=360.0;
+circ_radius [2]=60.0;
+circ_x [3]=304.0;
+circ_y [3]=140.0;
+circ_radius [3]=50.0;
+circ_x [4]=535.0;
+circ_y [4]=233.0;
+circ_radius [4]=90.0;
+circ_x [5]=537.0;
+circ_y [5]=362.0;
+circ_radius [5]=50.0;
+circ_x [6]=219.0;
+circ_y [6]=412.0;
+circ_radius [6]=40.0;
+circ_x [7]=-50.0;
+circ_y [7]=-50.0;
+circ_radius [7]=30.0;
+circ_x [8]=-50.0;
+circ_y [8]=-50.0;
+circ_radius [8]=30.0;
+circ_x [9]=-50.0;
+circ_y [9]=-50.0;
+circ_radius [9]=30.0;
+
+FIM DO MAPEAMENTO DA PECA 3
+//////////////////////////////
+PECA 4
+
+circ_x [0]=216.0;
+circ_y [0]=170.0;
+circ_radius [0]=170.0;
+circ_x [1]=296.0;
+circ_y [1]=207.0;
+circ_radius [1]=150.0;
+circ_x [2]=335.0;
+circ_y [2]=157.0;
+circ_radius [2]=40.0;
+circ_x [3]=158.0;
+circ_y [3]=324.0;
+circ_radius [3]=90.0;
+circ_x [4]=353.0;
+circ_y [4]=411.0;
+circ_radius [4]=60.0;
+circ_x [5]=396.0;
+circ_y [5]=430.0;
+circ_radius [5]=100.0;
+circ_x [6]=78.0;
+circ_y [6]=416.0;
+circ_radius [6]=120.0;
+circ_x [7]=546.0;
+circ_y [7]=411.0;
+circ_radius [7]=120.0;
+circ_x [8]=206.0;
+circ_y [8]=457.0;
+circ_radius [8]=60.0;
+circ_x [9]=249.0;
+circ_y [9]=35.0;
+circ_radius [9]=70.0;
+
+FIM DO MAPEAMENTO DA PECA 4
+//////////////////////////////
+PECA 5
+
+circ_x [0]=384.0;
+circ_y [0]=57.0;
+circ_radius [0]=150.0;
+circ_x [1]=324.0;
+circ_y [1]=201.0;
+circ_radius [1]=150.0;
+circ_x [2]=307.0;
+circ_y [2]=374.0;
+circ_radius [2]=200.0;
+circ_x [3]=495.0;
+circ_y [3]=160.0;
+circ_radius [3]=80.0;
+circ_x [4]=443.0;
+circ_y [4]=302.0;
+circ_radius [4]=60.0;
+circ_x [5]=-50.0;
+circ_y [5]=-50.0;
+circ_radius [5]=30.0;
+circ_x [6]=-50.0;
+circ_y [6]=-50.0;
+circ_radius [6]=30.0;
+circ_x [7]=-50.0;
+circ_y [7]=-50.0;
+circ_radius [7]=30.0;
+circ_x [8]=-50.0;
+circ_y [8]=-50.0;
+circ_radius [8]=30.0;
+circ_x [9]=-50.0;
+circ_y [9]=-50.0;
+circ_radius [9]=30.0;
+
+FIM DO MAPEAMENTO DA PECA 5
+//////////////////////////////
